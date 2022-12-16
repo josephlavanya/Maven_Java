@@ -1,0 +1,13 @@
+package com.Appdemo.bd1a6673_maven_java;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World! FROM 6673" );
+    }
+}
